@@ -1,0 +1,7 @@
+C:\Users\Ida\source\repos\KompleksniBrojeviComplex\bin\Debug\KompleksniBrojeviComplex.exe.config
+C:\Users\Ida\source\repos\KompleksniBrojeviComplex\bin\Debug\KompleksniBrojeviComplex.exe
+C:\Users\Ida\source\repos\KompleksniBrojeviComplex\bin\Debug\KompleksniBrojeviComplex.pdb
+C:\Users\Ida\source\repos\KompleksniBrojeviComplex\obj\Debug\KompleksniBrojeviComplex.csproj.AssemblyReference.cache
+C:\Users\Ida\source\repos\KompleksniBrojeviComplex\obj\Debug\KompleksniBrojeviComplex.csproj.CoreCompileInputs.cache
+C:\Users\Ida\source\repos\KompleksniBrojeviComplex\obj\Debug\KompleksniBrojeviComplex.exe
+C:\Users\Ida\source\repos\KompleksniBrojeviComplex\obj\Debug\KompleksniBrojeviComplex.pdb
